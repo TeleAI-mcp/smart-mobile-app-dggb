@@ -1,2 +1,3 @@
-# smart-mobile-app-dggb
-Automated issue comment bot repository
+# Smart Mobile App Dggb
+
+Automated issue comment bot repository.
